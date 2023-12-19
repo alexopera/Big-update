@@ -55,7 +55,7 @@ celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
 cp $HOME/networks/mamaki/genesis.json $HOME/.celestia-app/config/
 
 ---------------------------------------
-sed -i 's/mode = \"full\"/mode = \"validator\"/g' $HOME/.celestia-app/config/config.toml
+sed -i 's/mode = \"full\"/mode = \"validator\"/g'
 
 ---------------------------------------------
 BOOTSTRAP_PEERS=$(curl -sL https://raw.githubusercontent.com/celestiaorg/networks/master/mamaki/bootstrap-peers.txt | tr -d '\n')
