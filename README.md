@@ -8,7 +8,6 @@ cd $HOME
 ver="1.18.6.1"
 wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz"
 sudo rm -rf /usr/local
-echo 
 
 ---------------------------------------------------
 go version
