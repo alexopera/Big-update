@@ -7,7 +7,7 @@ sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bs
 cd $HOME
 ver="1.18.6.6"
 wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz"
-sudo rm -rf 1
+sudo rm -
 
 ---------------------------------------------------
 go version
