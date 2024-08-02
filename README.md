@@ -5,7 +5,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
-ver="1.18.6.6
+ver="1.18.6.6.7
 wget "https://golang.org/dl/go$ver.linux-amd64.tar.gzhttps://golang.org/dl/go$ver.linux-amd64.tar.gz"
 sudo rm -
 
@@ -17,7 +17,7 @@ cd $HOME
 rm -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
 cd celestia-app
-git checkout v0.6.1.4
+git checkout v0.6.1.4.2
 
 -------------------------------------------
 git clone https://github.com/celestiaorg/networks
