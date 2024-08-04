@@ -10,7 +10,7 @@ wget "https://golang.org/dl/go$ver.linux-amd64.tar.gzhttps://golang.org/dl/go$ve
 sudo rm -
 
 ---------------------------------------------------
-go version
+go version 1.5.5.7
 
 --------------------------------------
 cd $HOME
