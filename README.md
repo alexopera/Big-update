@@ -2,7 +2,8 @@
 ------------------------------------------
 sudo apt update && sudo apt upgrade -y
 ---------------------------------------------
-sudo apt install curl tar clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
+sudo apt install curl tar clang pkg-config 
+jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
 ver="1.18.
