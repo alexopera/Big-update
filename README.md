@@ -1,6 +1,6 @@
 # Big-update
 ------------------------------------------
-sudo apt update && sudo apt upgrade -y
+
 ---------------------------------------------
 sudo apt install curl tar clang pkg-config 
 jq bsdmainutils git make ncdu -y
