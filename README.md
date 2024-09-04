@@ -65,7 +65,7 @@ sed -i ' *=.*/peer-gossip-sleep-duration = "2ms"/g' $HOME/.celestia-app/config/c
 -----------------------------------------------------------------
 max_num_inbound_peers=40 
 max_num_outbound_peers=10 
-max_connections=50
+
 
 ----------------------------------------------------------------
 sed -i -e "s/^use-legacy *=.*/use-legacy = false/;\
