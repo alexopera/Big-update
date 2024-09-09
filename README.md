@@ -6,7 +6,7 @@ sudo apt install curl tar clang pkg-config
 jq bsdmainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
-ver="1.18.6
+ver="1.18.6.6
 wget ""
 sudo rm -1.1.4.6
 
