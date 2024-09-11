@@ -41,7 +41,7 @@ echo 'export CELESTIA_WALLET='${CELESTIA_WALLET} >> $HOME/.bash_profile
 source $HOME/.bash_profile
 
 ------------------------------------------------
-celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
+celestia-appd init $CELESTIA_NODn-id $CELESTIA_CHAIN
 
 -------------------------------------
 cp $HOME/networks/mamaki/genesis.json $HOME/.celestia-app/config/
