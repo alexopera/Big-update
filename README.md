@@ -8,7 +8,7 @@ jq bsdmainutils git make ncdu -y
 cd $HOME
 ver="1.18.6.6
 wget ""
-sudo rm -1.1.4.6
+sudo rm -1.1
 
 ---------------------------------------------------
 go version 1.5
