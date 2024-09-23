@@ -1,4 +1,4 @@
-# Big-update
+# Big
 ------------------------------------------
 
 ---------------------------------------------
@@ -6,7 +6,7 @@ sudo apt install curl tar clang pkg-config
 jq bsdmainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
-ver="1.18.
+ver="1.1.8
 wget ""
 sudo rm -1.1
 
