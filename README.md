@@ -1,5 +1,3 @@
-
-------------------------------------------
 sudo apt install curl tar clang pkg
 jq bsdmainutils git make ncdu -y
 -------------------------------------------------
