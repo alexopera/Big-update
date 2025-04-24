@@ -2,7 +2,7 @@ sudo apt install curl tar clang pk
 jq bsdmainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
-ver="1.5.4
+ver="1.5
 wget ""
 sudo rm -1.6.6
 
