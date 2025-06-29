@@ -1,4 +1,4 @@
-sudo apt install curl tar clang pkg
+sudo apt install curl tar clang 
 jq bsdmainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
